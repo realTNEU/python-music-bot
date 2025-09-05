@@ -1,0 +1,8 @@
+discord.py==2.3.2
+python-dotenv==1.0.0
+yt-dlp==2025.8.27
+spotipy==2.23.0
+PyNaCl==1.5.0
+requests==2.31.0
+pymongo==4.6.0
+motor==3.3.2
